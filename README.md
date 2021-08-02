@@ -28,7 +28,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeronimo-mz&layout=compact&theme=radical)
 
-[![Jerónimo's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeronimo-mz&show_icons=true&theme=radical&hide=issues,contribs)](https://github.com/anuraghazra/github-readme-stats)
+[![Jerónimo's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeronimo-mz&count_private=true&show_icons=true&theme=radical&hide=issues,contribs)](https://github.com/anuraghazra/github-readme-stats)
 
 
 - 🔭 I’m currently working on my Licentiate Degree
