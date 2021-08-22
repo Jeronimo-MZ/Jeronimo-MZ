@@ -1,24 +1,24 @@
 ### Hi there 👋
 <p align="center">
-  <img src="https://img.shields.io/badge/Windows-fff?logo=windows&logoColor=blue" />
-  <img src="https://img.shields.io/badge/Linux_Mint-fff?logo=linux-mint&logoColor=green" />
+  <img src="https://img.shields.io/badge/Windows-f1f3f5?logo=windows&logoColor=blue" />
+  <img src="https://img.shields.io/badge/Linux_Mint-f1f3f5?logo=linux-mint&logoColor=green" />
   <img src="https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-fff?logo=typescript&logoColor=blue" />
+  <img src="https://img.shields.io/badge/TypeScript-f1f3f5?logo=typescript&logoColor=blue" />
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Node.js-43853D?logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/Heroku-430098?logo=heroku&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-fff?logo=javascript&logoColor=yellow" />
-  <img src="https://img.shields.io/badge/HTML5-fff?logo=html5&logoColor=red" />
-  <img src="https://img.shields.io/badge/CSS3-fff?logo=css3&logoColor=blue" />
-  <img src="https://img.shields.io/badge/Express.js-fff?logo=express&logoColor=black" />
-  <img src="https://img.shields.io/badge/Jest-fff?logo=jest&logoColor=red" />
-  <img src="https://img.shields.io/badge/TypeORM-fff?logo=databricks&logoColor=orange" />
-  <img src="https://img.shields.io/badge/React-fff?logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/JavaScript-f1f3f5?logo=javascript&logoColor=yellow" />
+  <img src="https://img.shields.io/badge/HTML5-f1f3f5?logo=html5&logoColor=red" />
+  <img src="https://img.shields.io/badge/CSS3-f1f3f5?logo=css3&logoColor=blue" />
+  <img src="https://img.shields.io/badge/Express.js-f1f3f5?logo=express&logoColor=black" />
+  <img src="https://img.shields.io/badge/Jest-f1f3f5?logo=jest&logoColor=red" />
+  <img src="https://img.shields.io/badge/TypeORM-f1f3f5?logo=databricks&logoColor=orange" />
+  <img src="https://img.shields.io/badge/React-f1f3f5?logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/React_Native-20232A?logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/PostgreSQL-fff?logo=postgresql&logoColor=blue" />
-  <img src="https://img.shields.io/badge/MongoDB-fff?logo=mongodb&logoColor=green" />
-  <img src="https://img.shields.io/badge/More...-fff" />
+  <img src="https://img.shields.io/badge/PostgreSQL-f1f3f5?logo=postgresql&logoColor=blue" />
+  <img src="https://img.shields.io/badge/MongoDB-f1f3f5?logo=mongodb&logoColor=green" />
+  <img src="https://img.shields.io/badge/More...-f1f3f5" />
 </p>
 
 ## 😃 My Profile
