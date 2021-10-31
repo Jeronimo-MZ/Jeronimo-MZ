@@ -40,3 +40,5 @@
 
 -   Github: [@Jeronimo-MZ](https://github.com/Jeronimo-MZ)
 -   LinkedIn: [@jeronimo-matavel](https://linkedin.com/in/jeronimo-matavel)
+  
+  ![](https://komarev.com/ghpvc/?username=jeronimo-mz)
