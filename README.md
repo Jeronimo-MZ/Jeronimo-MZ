@@ -42,3 +42,4 @@
 -   LinkedIn: [@jeronimo-matavel](https://linkedin.com/in/jeronimo-matavel)
   
   ![](https://komarev.com/ghpvc/?username=jeronimo-mz)
+  ![](https://hit.yhype.me/github/profile?user_id=49800473)
